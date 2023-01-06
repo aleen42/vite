@@ -62,7 +62,7 @@
     "esbuild": "^0.16.14",
     "postcss": "^8.4.20",
     "resolve": "^1.22.1",
-    "rollup": "^3.7.0"
+    "rollup": "npm:@aleen42/rollup@3.9.2-beta.0"
   },
   "optionalDependencies": {
     "fsevents": "~2.3.2"
